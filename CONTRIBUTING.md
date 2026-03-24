@@ -1,42 +1,46 @@
-# Contributing feedback to Eatensity
+# How to share feedback 💛
 
-Thanks for taking the time to share feedback! Here's how to make your report as useful as possible.
+First off — **thank you**. The fact that you're here, willing to help us improve Eatensity, means the world. This is your space, and we want it to feel easy and welcoming.
 
-## Bug reports
+## Don't overthink it
 
-A good bug report includes:
+There's no wrong way to share feedback. If something feels off, or you had an idea in the middle of logging your lunch — just tell us. You don't need to fill in every field perfectly. Write what you can, and we'll ask if we need more.
 
-- **What happened** — Describe the problem clearly
-- **Steps to reproduce** — Numbered steps to trigger the bug
-- **Expected behavior** — What should have happened instead
-- **Environment** — Device, OS version, browser (or app version for mobile)
-- **Screenshots / recordings** — Attach them if possible
+## A few tips (not rules!)
 
-## Feature requests
+### 🐛 Spotted a problem?
 
-Help us understand:
+Just tell us:
+- **What went wrong** — in your own words
+- **Where it happened** — which screen or page
+- **A screenshot** if you have one (totally optional)
 
-- **What problem does this solve?** — Describe the pain point or use case
-- **How would it work?** — Describe the ideal experience
-- **Priority** — Is this a nice-to-have or a blocker?
+That's genuinely enough. If we need more detail, we'll gently ask.
 
-## Suggestions & enhancements
+### 💡 Have a feature idea?
 
-For smaller improvements (UI tweaks, better wording, etc.):
+We'd love to hear:
+- **What you wish the app could do**
+- **Why it would help you** — even a sentence is great
 
-- Describe the **current state** and the **proposed improvement**
-- Explain **why** the change would help
+### 🗣️ Something could be better?
 
-## Voting
+Tell us:
+- **What you noticed**
+- **How you think it could improve**
 
-If someone already submitted the same feedback:
+## 👍 See something you agree with?
 
-1. Add a **👍 reaction** to the issue — this helps us prioritise
-2. Add a **comment** only if you have new information to share
+If someone already posted the same thought — just hit the **👍 reaction** on their issue. That's one of the most helpful things you can do — it tells us what matters most to the community.
 
-## Code of conduct
+## 🌟 Your contributions matter
 
-- Be respectful and constructive
-- Don't share personal health data or sensitive info
-- One issue per report — keep it focused
-- No spam, ads, or self-promotion
+We genuinely read every single submission. And we're working on ways to recognise the people who help us the most — whether that's a mention in our release notes, a spot on a contributors page, or something else entirely. Your voice shapes this product.
+
+## 🤝 One small ask
+
+Please be kind to each other. This is a community space, and everyone's here to make Eatensity better. Also, please don't share any personal health data in your posts — keep it about the app.
+
+---
+
+Thank you for making Eatensity better for everyone. We mean it. 🙏
