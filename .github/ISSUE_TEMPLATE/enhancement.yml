@@ -1,0 +1,41 @@
+name: 🗣️ Suggestion / Enhancement
+description: Suggest an improvement to an existing feature
+title: "[Suggestion]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Got an idea to improve something that already exists? Let us know!
+
+  - type: textarea
+    id: current
+    attributes:
+      label: Current behavior
+      description: What does the app do today?
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Proposed improvement
+      description: What should it do instead / in addition?
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: Why would this help?
+      description: How would this change improve your experience?
+    validations:
+      required: false
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Attach any relevant screenshots.
+    validations:
+      required: false

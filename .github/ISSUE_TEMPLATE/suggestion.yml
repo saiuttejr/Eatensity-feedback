@@ -1,0 +1,56 @@
+name: 💡 Feature Request
+description: Suggest a new feature or capability
+title: "[Feature]: "
+labels: ["feature-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have an idea for a new feature? We'd love to hear it!
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does this solve?
+      description: Describe the pain point or use case that this feature would address.
+      placeholder: "I often need to... but currently..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Describe your ideal solution
+      description: How would this feature work? What would it look like?
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives you've considered
+      description: Any other ways you've tried to solve this?
+    validations:
+      required: false
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      description: Where should this feature be available?
+      multiple: true
+      options:
+        - Web (eatensity.com)
+        - Android app
+        - iOS app
+        - All platforms
+    validations:
+      required: false
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Mockups / screenshots
+      description: If you have any visual ideas, drop them here.
+    validations:
+      required: false
