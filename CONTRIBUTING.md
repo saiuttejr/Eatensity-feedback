@@ -1,46 +1,38 @@
-# How to share feedback 💛
+# Sharing Feedback
 
-First off — **thank you**. The fact that you're here, willing to help us improve Eatensity, means the world. This is your space, and we want it to feel easy and welcoming.
+Thank you for helping us improve Eatensity. Good feedback makes a real difference, and we appreciate the time you put into it.
 
-## Don't overthink it
+## Writing helpful feedback
 
-There's no wrong way to share feedback. If something feels off, or you had an idea in the middle of logging your lunch — just tell us. You don't need to fill in every field perfectly. Write what you can, and we'll ask if we need more.
+You don't need to be technical — just clear. Here's what helps us the most for each type:
 
-## A few tips (not rules!)
+### Bug reports
 
-### 🐛 Spotted a problem?
+- **What happened** — describe the issue in your own words
+- **Where it happened** — which screen, page, or feature
+- **Steps to reproduce** — if you can remember them
+- **Screenshots** — helpful but not required
 
-Just tell us:
-- **What went wrong** — in your own words
-- **Where it happened** — which screen or page
-- **A screenshot** if you have one (totally optional)
+### Feature requests
 
-That's genuinely enough. If we need more detail, we'll gently ask.
+- **What you'd like** — describe the feature or capability
+- **Why it matters** — the problem it would solve or the value it would add
 
-### 💡 Have a feature idea?
+### Suggestions
 
-We'd love to hear:
-- **What you wish the app could do**
-- **Why it would help you** — even a sentence is great
+- **What exists today** — the current experience
+- **What could improve** — your proposed change and why
 
-### 🗣️ Something could be better?
+## Voting on existing feedback
 
-Tell us:
-- **What you noticed**
-- **How you think it could improve**
+If someone has already submitted the same idea or bug, add a 👍 reaction to their issue. This helps us understand priority and avoids duplicates.
 
-## 👍 See something you agree with?
+## Community guidelines
 
-If someone already posted the same thought — just hit the **👍 reaction** on their issue. That's one of the most helpful things you can do — it tells us what matters most to the community.
+- Keep feedback respectful and constructive
+- One topic per issue for clarity
+- Avoid sharing personal health data in your posts
 
-## 🌟 Your contributions matter
+## Recognition
 
-We genuinely read every single submission. And we're working on ways to recognise the people who help us the most — whether that's a mention in our release notes, a spot on a contributors page, or something else entirely. Your voice shapes this product.
-
-## 🤝 One small ask
-
-Please be kind to each other. This is a community space, and everyone's here to make Eatensity better. Also, please don't share any personal health data in your posts — keep it about the app.
-
----
-
-Thank you for making Eatensity better for everyone. We mean it. 🙏
+We read every submission. Contributors who consistently help improve the product may be recognised in release notes and future community features.

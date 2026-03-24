@@ -1,50 +1,46 @@
-# Eatensity — Your Voice Matters 🙏
+# Eatensity — Feedback & Ideas
 
-Thank you for being part of Eatensity! This is a space where you can share anything — a problem you ran into, a feature you wish existed, or just an idea to make things better.
+This is the public feedback space for [Eatensity](https://eatensity.com) — India's food intelligence platform. We appreciate you taking the time to help us improve.
 
-**You don't need to be technical.** Just tell us what's on your mind, in your own words. Every piece of feedback helps us build a better product for everyone.
+Whether you've found a bug, have a feature idea, or want to suggest an improvement — this is the place.
 
-## 🎯 Three simple ways to help
+## How to submit
 
-| | What | When |
-|---|---|---|
-| 🐛 | **Something's broken** | The app crashed, a page looks wrong, or something isn't working |
-| 💡 | **I wish it could...** | You have an idea for something new |
-| 🗣️ | **This could be better** | Something works, but could be improved |
+1. Click **[New Issue](../../issues/new/choose)** and select a category
+2. Fill in the form — no technical knowledge needed, just describe your experience
+3. Submit — we'll review it and follow up
 
-## 📝 How to share feedback
+> If you see an existing issue that matches yours, a 👍 reaction helps us prioritise.
 
-1. **Click the green "New Issue" button** → [Create new issue](../../issues/new/choose)
-2. **Pick the type** that fits best (don't worry about choosing perfectly — we'll sort it out)
-3. **Describe what's on your mind** — a few sentences is totally fine. Screenshots are a bonus!
+## Categories
 
-That's it. We'll take it from there.
+| Template | Use when |
+|----------|----------|
+| 🐛 **Bug Report** | Something isn't working as expected |
+| 💡 **Feature Request** | You'd like to see something new |
+| 🗣️ **Suggestion** | An existing feature could be improved |
 
-> **Already see something similar?** Give it a 👍 — that helps us know what to prioritise. You can also add a comment if you have something to add.
+## What happens next
 
-## 🔔 We'll keep you in the loop
+| Label | Meaning |
+|-------|---------|
+| `acknowledged` | We've reviewed it and added it to our backlog |
+| `in-progress` | Currently being worked on |
+| `resolved` | Shipped — check the latest app update |
+| `needs-info` | We need a bit more detail from you |
 
-Once you submit, GitHub will notify you whenever we respond. Here's what our labels mean:
+GitHub will notify you when we respond or update the status.
 
-| Label | What it means |
-|-------|--------------|
-| `acknowledged` | We've seen it — it's on our radar |
-| `in-progress` | We're actively working on it |
-| `resolved` | Done! Check the app for the update |
-| `needs-info` | We'd love a bit more detail from you |
+## Recognition
 
-## 🌟 Thank you, seriously
+We value every contribution. Active contributors may be recognised in release notes and within the app as we build out our community features.
 
-Every bug report saves other users from the same frustration. Every feature idea shapes where Eatensity goes next. **You're not just a user — you're helping build this.**
-
-We're exploring ways to recognise our most helpful contributors — whether through shoutouts in release notes, a contributors wall in the app, or other ways to say thanks. Stay tuned.
-
-## 🔗 Quick links
+## Links
 
 - [Eatensity Web App](https://eatensity.com)
-- [Browse all feedback](../../issues)
-- [Start a conversation](../../discussions) (for general questions, ideas, or just to say hi)
+- [All Issues](../../issues)
+- [Discussions](../../discussions)
 
 ---
 
-*This space is for feedback and conversations — it does not contain any source code.*
+*This repo is for feedback only — it does not contain source code.*
