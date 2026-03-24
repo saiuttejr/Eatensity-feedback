@@ -1,4 +1,4 @@
-name: 💡 Feature Request
+name: "\U0001F4A1 Feature Request"
 description: Suggest a new feature or capability
 title: "[Feature]: "
 labels: ["feature-request"]
@@ -6,51 +6,29 @@ body:
   - type: markdown
     attributes:
       value: |
-        Have an idea for a new feature? We'd love to hear it!
+        We'd love to hear your idea. Please describe the feature and why it would be useful.
 
   - type: textarea
-    id: problem
+    id: idea
     attributes:
-      label: What problem does this solve?
-      description: Describe the pain point or use case that this feature would address.
-      placeholder: "I often need to... but currently..."
+      label: Describe the feature
+      description: What would you like the app to do?
+      placeholder: "It would be useful if..."
     validations:
       required: true
 
   - type: textarea
-    id: solution
+    id: why
     attributes:
-      label: Describe your ideal solution
-      description: How would this feature work? What would it look like?
-    validations:
-      required: true
-
-  - type: textarea
-    id: alternatives
-    attributes:
-      label: Alternatives you've considered
-      description: Any other ways you've tried to solve this?
-    validations:
-      required: false
-
-  - type: dropdown
-    id: platform
-    attributes:
-      label: Platform
-      description: Where should this feature be available?
-      multiple: true
-      options:
-        - Web (eatensity.com)
-        - Android app
-        - iOS app
-        - All platforms
+      label: Why would this be valuable?
+      description: What problem would it solve or what would it improve?
     validations:
       required: false
 
   - type: textarea
     id: screenshots
     attributes:
-      label: Mockups / screenshots
-      description: If you have any visual ideas, drop them here.
+      label: Visuals or references
+      description: Screenshots, mockups, or links to similar features in other apps.
     validations:
       required: false
